@@ -21,7 +21,8 @@
   "homepage": "https://github.com/thinkful-ei-heron/api-day-Larry_Adam#readme",
   "dependencies": {
     "cuid": "^2.1.6",
-    "jquery": "^3.4.1"
+    "jquery": "^3.4.1",
+    "normalize.css": "^8.0.1"
   },
   "devDependencies": {
     "css-loader": "^3.2.0",
